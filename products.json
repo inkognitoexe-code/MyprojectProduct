@@ -1,0 +1,9 @@
+{
+id: 1,
+title: "test",
+price: 500,
+rating: 5,
+reviews: 0,
+date: '2026-06-10',
+img: 'https://image.com'
+}
